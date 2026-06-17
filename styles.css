@@ -1,0 +1,74 @@
+* {
+    color: #efefef;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    font-family: Verdana, sans-serif;
+
+    background-image: linear-gradient(to bottom left, #291a3f, #3f1a29);
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    width: 410px;
+    padding: 20px 40px;
+    margin-top: 20px;
+    border-radius: 2px;
+    animation: popIn 1s ease forwards;
+    transform: translateY(20px);
+    opacity: 0;
+    text-shadow: 5px 5px rgba(100, 20, 220, 0.125);
+}
+
+@keyframes popIn {
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+h1 {
+    margin: 0;
+    font-size: 2.5rem;
+    letter-spacing: 2px;
+}
+.presentation {
+    display: flex;
+    flex-direction: column; /* This fixes the stacking */
+    justify-content: center;
+    animation: popIn 1s ease forwards;
+    transform: translateY(20px);
+    text-align: center;
+    margin-top: 20px;
+    color: #efefef;
+}
+.container_about {
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    width: 500px;
+    height: 450px;
+    margin: 5px;
+    border: 2px solid rgba(100, 20, 220, 0.8);
+    border-radius: 6px;
+    box-shadow: 4px 4px rgba(100, 20, 220, 0.125);
+}
+
+.about_me_text {
+    font-size: 1.5rem;
+}
+
+a {
+    color: #400abf;
+}
