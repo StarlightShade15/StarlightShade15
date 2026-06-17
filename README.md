@@ -124,7 +124,7 @@ with a strong understanding of how networks and software interact.
 ## 📫 Contact
 
 - GitHub: https://github.com/StarlightShade15
-- Email: bypassfdp1501@gmail.com
+- Email: mathys.herbomez@totanota.com
 - Discord: - NOT AVAILABLE -
 - Linkedin: https://linkedin.com/in/mathys-herbomez-118362417
 
