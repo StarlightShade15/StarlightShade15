@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Mathys H.
+#  Hey, I'm Mathys H.
 
 Developer from France 🇫🇷  
 Born January 2009  
@@ -8,7 +8,7 @@ I enjoy building systems, exploring how networks work, and creating tools that a
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Skill Levels
 
@@ -49,7 +49,7 @@ I enjoy building systems, exploring how networks work, and creating tools that a
 
 ---
 
-## 🧠 Interests
+##  Interests
 
 - Networking (TCP/IP, HTTP, proxies)
 - Cybersecurity fundamentals (systems behavior, traffic analysis, tooling)
@@ -59,7 +59,7 @@ I enjoy building systems, exploring how networks work, and creating tools that a
 
 ---
 
-## 🔐 Cybersecurity Focus
+##  Cybersecurity Focus
 
 I explore how systems communicate and how data flows through networks by building:
 
@@ -72,27 +72,27 @@ I focus on understanding systems behavior and building safe, controlled learning
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🌐 Network Scanner
+###  Network Scanner
 
 A Python tool to scan local networks and detect active hosts and open ports.
 
-### 🔁 HTTP Proxy Server
+###  HTTP Proxy Server
 
 A lightweight proxy built with Flask and sockets to understand HTTP traffic flow and request handling.
 
-### ⚙️ Python Utility Modules
+###  Python Utility Modules
 
 Custom-built networking, automation, and utility libraries designed to simplify repetitive development tasks.
 
-### 🤖 Discord Bot System
+###  Discord Bot System
 
 A multi-feature bot handling commands, automation, user interaction, and custom backend logic.
 
 ---
 
-## 🎯 Goals
+##  Goals
 
 - Build clean, production-style software projects
 - Improve backend architecture skills
@@ -102,7 +102,7 @@ A multi-feature bot handling commands, automation, user interaction, and custom 
 
 ---
 
-## ⚡ Current Direction
+##  Current Direction
 
 I'm focused on becoming a developer capable of building both:
 
@@ -113,7 +113,7 @@ with a strong understanding of how networks and software interact.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 📊 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StarlightShade15&show_icons=true)
 
@@ -121,11 +121,17 @@ with a strong understanding of how networks and software interact.
 
 ---
 
-## 📫 Contact
+## Other 
+
+For any project inquiries ( discord tools, backends, and other );
+please contact me in the **Contact** category !
+I am most likely to respond on discord and by email
+
+## Contact
 
 - GitHub: https://github.com/StarlightShade15
-- Email: mathys.herbomez@totanota.com
-- Discord: - NOT AVAILABLE -
+- Email: mathys.herbomez@protonmail.com
+- Discord: starlightshade
 - Linkedin: https://linkedin.com/in/mathys-herbomez-118362417
 
 ---
